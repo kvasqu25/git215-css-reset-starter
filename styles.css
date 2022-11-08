@@ -78,6 +78,7 @@ body{
     line-height: 1.4;
     background-color: var(--dk-gray);
     color: var(--dk-gray);
+    margin: 8px;
 }
 
 /* ----- CONTAINER WIDTH STYLES ----- */
